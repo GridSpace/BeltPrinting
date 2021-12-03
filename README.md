@@ -1,4 +1,4 @@
-# BeltPrinting
+# Belt Printing Resources
 
 A resource for belt printing configuration, troubleshooting, and modification.
 
